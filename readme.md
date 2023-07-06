@@ -11,6 +11,8 @@ Timeline
 Added contacts.js and removed redundant files.
 Worked through tutorial on adding router, root route, handling errors, contact route.
 
+7 Jul 2023 - Worked through tutorial on nested route, client side routing, loading data,
+Data writes + HTML, creating contacts, URL params in loaders,
 
 
 ```
