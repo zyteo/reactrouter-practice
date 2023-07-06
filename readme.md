@@ -6,5 +6,6 @@ Learning about the latest react router [v6](https://reactrouter.com/en/main/star
 Timeline
 
 6 Jul 2023 - Created project.
+Added contacts.js and removed redundant files.
 
 ```
