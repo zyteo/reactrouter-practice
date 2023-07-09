@@ -17,5 +17,7 @@ updating contacts with form data
 
 8 Jul 2023 - Worked through tutorial on mutation discussion, redirecting new records to the edit page  
 
+9 Jul 2023 - Worked through tutorial on active link styling 
+
 
 ```
