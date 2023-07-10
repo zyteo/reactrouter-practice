@@ -2,7 +2,7 @@
 
 Learning about the latest react router [v6](https://reactrouter.com/en/main/start/tutorial)
 
-https://reactrouter.com/en/main/start/tutorial#url-search-params-and-get-submissions
+https://reactrouter.com/en/main/start/tutorial#get-submissions-with-client-side-routing
 
 ```
 Timeline
@@ -19,7 +19,7 @@ updating contacts with form data
 
 9 Jul 2023 - Worked through tutorial on active link styling, global pending UI, deleting records
 
-10 Jul 2023 - Worked through tutorial on contextual errors, index routes, cancel button
+10 Jul 2023 - Worked through tutorial on contextual errors, index routes, cancel button, URL Search Params and GET Submissions
 
 
 ```
