@@ -2,7 +2,7 @@
 
 Learning about the latest react router [v6](https://reactrouter.com/en/main/start/tutorial)
 
-https://reactrouter.com/en/main/start/tutorial#active-link-styling
+https://reactrouter.com/en/main/start/tutorial#url-search-params-and-get-submissions
 
 ```
 Timeline
@@ -18,6 +18,8 @@ updating contacts with form data
 8 Jul 2023 - Worked through tutorial on mutation discussion, redirecting new records to the edit page  
 
 9 Jul 2023 - Worked through tutorial on active link styling, global pending UI, deleting records
+
+10 Jul 2023 - Worked through tutorial on contextual errors, index routes, cancel button
 
 
 ```
