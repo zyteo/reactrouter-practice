@@ -23,5 +23,6 @@ updating contacts with form data
 
 12 Jul 2023 - Worked through tutorial on GET Submissions with Client Side Routing, Synchronizing URLs to Form State, Submitting Forms onChange
 
+13 Jul 2023 - Worked through tutorial on Adding Search Spinner
 
 ```
