@@ -15,11 +15,13 @@ Worked through tutorial on adding router, root route, handling errors, contact r
 Data writes + HTML, creating contacts, URL params in loaders, updating data,
 updating contacts with form data
 
-8 Jul 2023 - Worked through tutorial on mutation discussion, redirecting new records to the edit page  
+8 Jul 2023 - Worked through tutorial on mutation discussion, redirecting new records to the edit page
 
 9 Jul 2023 - Worked through tutorial on active link styling, global pending UI, deleting records
 
 10 Jul 2023 - Worked through tutorial on contextual errors, index routes, cancel button, URL Search Params and GET Submissions
+
+12 Jul 2023 - Worked through tutorial on GET Submissions with Client Side Routing, Synchronizing URLs to Form State, Submitting Forms onChange
 
 
 ```
