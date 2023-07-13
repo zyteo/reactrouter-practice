@@ -2,7 +2,7 @@
 
 Learning about the latest react router [v6](https://reactrouter.com/en/main/start/tutorial)
 
-https://reactrouter.com/en/main/start/tutorial#get-submissions-with-client-side-routing
+https://reactrouter.com/en/main/start/tutorial#optimistic-ui
 
 ```
 Timeline
@@ -23,6 +23,6 @@ updating contacts with form data
 
 12 Jul 2023 - Worked through tutorial on GET Submissions with Client Side Routing, Synchronizing URLs to Form State, Submitting Forms onChange
 
-13 Jul 2023 - Worked through tutorial on Adding Search Spinner
+13 Jul 2023 - Worked through tutorial on Adding Search Spinner, Managing the History Stack, Mutations Without Navigation
 
 ```
