@@ -25,4 +25,6 @@ updating contacts with form data
 
 13 Jul 2023 - Worked through tutorial on Adding Search Spinner, Managing the History Stack, Mutations Without Navigation
 
+14 Jul 2023 - Worked through tutorial on optimistic ui
+
 ```
