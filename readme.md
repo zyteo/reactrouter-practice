@@ -29,6 +29,6 @@ updating contacts with form data
 
 24 Jul 2023 - Worked through tutorial on not found data
 
-25 Jul 2023 - Worked through tutorial on pathless route
+25 Jul 2023 - Worked through tutorial on pathless route, JSX routes. Completed tutorial.
 
 ```
